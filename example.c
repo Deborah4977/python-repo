@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    printf("%s", "hello world, deborah");
+
+    return 0;
+}
